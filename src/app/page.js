@@ -5,7 +5,7 @@ export default function Home() {
     <main>
       <h1>Blog Site</h1>
       <p>*Made only backend API. <br/> *To access Postman API Collecton click &nbsp;
-      <a href='https://api.postman.com/collections/28006557-83cddbe6-9101-4397-8456-92dd82cbbcac?access_key=PMAT-01HGTBEVRB203YVB96ERCYKDEG'>link</a></p>
+      <a target="_blank" href='https://api.postman.com/collections/28006557-83cddbe6-9101-4397-8456-92dd82cbbcac?access_key=PMAT-01HGTBEVRB203YVB96ERCYKDEG'>link</a></p>
     </main>
   )
 }
