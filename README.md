@@ -10,7 +10,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Deploy on Vercel
 
-Check out [Vercel Deployment]([Next.js Documentation](https://nextjs.org/docs))
+Check out [Vercel Deploymeny](https://blog-site-gpwd.vercel.app/)
 
 ## Postman Collection
 
